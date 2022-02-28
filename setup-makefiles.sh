@@ -9,7 +9,7 @@
 set -e
 
 # Required!
-DEVICE=olivewood
+DEVICE=olivelite
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks

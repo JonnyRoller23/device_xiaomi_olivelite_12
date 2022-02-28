@@ -5,9 +5,9 @@
 //
 
 cc_library_static {
-    name: "libinit_olivewood",
+    name: "libinit_olivelite",
     recovery_available: true,
-    srcs: ["init_olivewood.cpp"],
+    srcs: ["init_olivelite.cpp"],
     include_dirs: [
         "system/libbase/include",
         "system/core/init"
